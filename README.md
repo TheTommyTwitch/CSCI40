@@ -23,11 +23,13 @@ Introduction to problem solving, algorithm development, procedural and data abst
 * Use basic data structure such as arrays and linked lists;
 * Write programs that handle strings of characters;
 * Define a class or class template to solve programming problems.
+
 # COURSE WORK
 	**Course work consists of:**
 * Programming Assignments;
 * Midterm exams and a final exam. The final exam is comprehensive;
 * Lab tests (Programming tests)
+
 # TEACHING PLAN (tentative)
 **The course is roughly divided into four sections and will cover the first 14 chapters of the text. Topics covered by each section are listed as following:**
 * Section 1:  	Chapter 1 - Chapter 4 (week 1 – week 4)
