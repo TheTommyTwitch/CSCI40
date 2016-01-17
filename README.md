@@ -12,7 +12,7 @@ recommended.
 Introduction to problem solving, algorithm development, procedural and data abstraction using high level computer programming language C++; program design, coding, debugging, testing, and documentation.
 
 # OBJECTIVE
-	**Upon successful completion of the course, the student will be able to:**
+**Upon successful completion of the course, the student will be able to:**
 * Analyze a problem and decide whether or not it would be useful to use a computer     program for the problem solving;
 * Develop algorithm for the solution of the problem;
 * Write and execute a computer program that implements the algorithm;
@@ -25,7 +25,7 @@ Introduction to problem solving, algorithm development, procedural and data abst
 * Define a class or class template to solve programming problems.
 
 # COURSE WORK
-	**Course work consists of:**
+**Course work consists of:**
 * Programming Assignments;
 * Midterm exams and a final exam. The final exam is comprehensive;
 * Lab tests (Programming tests)
