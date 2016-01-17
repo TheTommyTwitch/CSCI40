@@ -1,3 +1,7 @@
+// CSCI40 HOMEWORK ONE
+// 1/16/2016
+// Thomas Asadurian
+
 #include<iostream>
 using namespace std;
 
@@ -11,7 +15,7 @@ int main()
 
 	cout << "This will calulate the area of a cylinder" << endl;
 	cout << "Input you cylinder radius: " << endl;
-	cin >> cylinderRadius; 
+	cin >> cylinderRadius;
 	cout << "Input the cylinder height: " << endl;
 	cin >> cylinderHeight;
 	cout << cylinderRadius * cylinderRadius * PI * cylinderHeight << endl;
